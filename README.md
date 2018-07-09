@@ -1,3 +1,5 @@
+This is a merge conflict example
+
 Hello Cloud Gurus
 # This is my readme file
 Hello Cloud Guru
