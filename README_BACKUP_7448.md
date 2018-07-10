@@ -1,5 +1,9 @@
+<<<<<<< HEAD
+Hell0 Hello
+=======
 This is a merge conflict example
-Hey everyone
+
+>>>>>>> e64ed6c4a54291373b648a9d8cfd90f5d163774e
 Hello Cloud Gurus
 # This is my readme file
 Hello Cloud Guru
