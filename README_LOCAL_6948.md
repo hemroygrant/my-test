@@ -1,5 +1,4 @@
-This is a merge conflict example
-Hey everyone
+Hell0 Hello
 Hello Cloud Gurus
 # This is my readme file
 Hello Cloud Guru
